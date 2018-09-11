@@ -1,0 +1,1 @@
+Researchers at Imperial College London have developed a new method for coded caching that could improve the delivery of popular video content online. A research paper outlining their findings was pre-published on arXiv, outlining the technique and its performance in comparison to other caching schemes.

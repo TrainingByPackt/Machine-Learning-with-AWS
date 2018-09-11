@@ -1,0 +1,1 @@
+Researchers from the University of Pittsburgh have recently developed a conditional variational autoencoder that can produce unique faces for advertisements. Their study is grounded on their previous work, which explored automated methods of better understanding advertisement.

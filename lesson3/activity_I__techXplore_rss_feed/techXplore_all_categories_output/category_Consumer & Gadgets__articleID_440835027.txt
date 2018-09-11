@@ -1,0 +1,1 @@
+A pair of researchers in Taiwan has developed an artificial intelligence system to filter smartphone push notifications, thus allowing only those the user wants. In a paper uploaded to the arXiv preprint server, TonTon Hsien-De Huang and Hung-Yu Kao describe their system and how it was developed and tested.

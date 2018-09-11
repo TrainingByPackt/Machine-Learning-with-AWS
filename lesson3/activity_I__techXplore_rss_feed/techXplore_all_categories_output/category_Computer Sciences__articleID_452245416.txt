@@ -1,0 +1,1 @@
+Brian Mitchell and Linda Petzold, two researchers at the University of California, have recently applied model-free deep reinforcement learning to models of neural dynamics, achieving very promising results.
