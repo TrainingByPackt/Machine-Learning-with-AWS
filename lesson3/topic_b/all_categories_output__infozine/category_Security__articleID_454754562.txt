@@ -1,0 +1,1 @@
+A team of physicians and computer scientists at the University of California has shown that it is easy to modify medical test results remotely by attacking the connection between hospital laboratory devices and medical record systems.

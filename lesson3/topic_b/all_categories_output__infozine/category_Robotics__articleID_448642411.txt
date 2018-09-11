@@ -1,0 +1,1 @@
+Getting robots to do things isn't easy: usually scientists have to either explicitly program them or get them to understand how humans communicate via language.

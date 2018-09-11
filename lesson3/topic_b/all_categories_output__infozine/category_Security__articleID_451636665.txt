@@ -1,0 +1,1 @@
+A team of researchers from R&D company Draper and Boston University developed a new large-scale vulnerability detection system using machine learning algorithms, which could help to discover software vulnerabilities faster and more efficiently.

@@ -1,0 +1,1 @@
+Cybersecurity researchers at the Georgia Institute of Technology have helped close a security vulnerability that could have allowed hackers to steal encryption keys from a popular security package by briefly listening in on unintended "side channel" signals from smartphones.

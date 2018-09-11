@@ -1,0 +1,1 @@
+A warnings bypass in macOS High Sierra made news this week in security land. Think on lines such as security check-ins, where  the user is asked to confirm that an app should be granted permission to do things like access contacts or location data, as noted in 9to5Mac.

@@ -1,0 +1,1 @@
+A team of researchers at the City University of Hong Kong have found a way to use micro-robots to carry a cluster of cells to a target site in live animals. In their paper published in the journal Science Robotics, the group describes the micro-robots they designed and their performance during testing.

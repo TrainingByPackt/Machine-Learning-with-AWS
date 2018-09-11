@@ -1,0 +1,1 @@
+A famous viral video about the DARPA Robotics Challenge shows all sorts of humanoid robots clumsily falling down. Bipedal movement is rather unstable, which is not only a problem for a robot trying to complete its task, but also because falling can damage a very expensive piece of machinery.

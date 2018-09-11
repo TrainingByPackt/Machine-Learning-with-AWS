@@ -1,0 +1,1 @@
+A team of researchers at UC Berkeley has found a way to get a robot to mimic an activity it sees on a video screen just a single time. In a paper they have uploaded to the arXiv preprint server, the team describes the approach they used and how it works.
