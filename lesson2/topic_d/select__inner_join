@@ -1,0 +1,6 @@
+SELECT linkedTopicDB2.doc_topics.docname, 
+		linkedTopicDB2.doc_topics.topic, 
+        linkedTopicDB2.doc_topics.proportion,
+        linkedTopicDB2.topic_terms.term
+FROM linkedTopicDB2.doc_topics
+INNER JOIN linkedTopicDB2.topic_terms ON linkedTopicDB2.doc_topics.topic = linkedTopicDB2.topic_terms.topic;
