@@ -1,0 +1,1 @@
+A new way of arranging advanced computer components called memristors on a chip could enable them to be used for general computing, which could cut energy consumption by a factor of 100.

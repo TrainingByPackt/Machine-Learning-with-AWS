@@ -1,0 +1,1 @@
+Smart fingerprint sensor arrays for the smartphone have become a focal point of new research. Fingerprint sensors are getting a rethink, and the strategy being proposed is now reported in Nature Communications. The report is looking at sensor arrays that, at the same time, can pick up tactile pressure and finger skin temperature.
