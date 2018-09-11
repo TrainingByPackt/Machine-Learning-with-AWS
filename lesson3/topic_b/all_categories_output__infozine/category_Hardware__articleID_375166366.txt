@@ -1,0 +1,1 @@
+A slim area touch fingerprint sensor has been introduced. The news out of San Jose is that Synaptics is rolling out the Natural ID FS4304  biometric fingerprint sensor. It has the flexibility to fit in small spaces, including the edge of smartphones or tablets.

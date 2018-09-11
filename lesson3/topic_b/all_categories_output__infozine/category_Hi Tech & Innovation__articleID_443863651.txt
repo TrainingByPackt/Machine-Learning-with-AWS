@@ -1,0 +1,1 @@
+A pair of researchers at Carnegie Mellon University has developed a way to make ordinary paper touch sensitive. Yang Zhang and Chris Harrison have written a paper describing their technique and have posted it on their website. They are also going to be showing off samples that use it at this year's ACM CHI Conference on Human Factors in Computing Systems.

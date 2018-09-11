@@ -1,0 +1,1 @@
+As Android watchers know, the nomenclature Android Wear for a smartwatch platform was changed. Now it is  Wear OS. More platform-agnostic. Less static from those who flinch at the very sound of the word "Android."

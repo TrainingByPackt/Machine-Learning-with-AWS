@@ -1,0 +1,1 @@
+Nvidia on Tuesday announced its DGX-1, a rather formidable, deep learning supercomputer. Deep learning is an already familiar concept; it is fairly well known that deep learning and AI signify modern-day keys for people who are searching for patterns, insights and answers for what's to come.

@@ -1,0 +1,1 @@
+A bug was identified which can freeze systems with a Skylake processor, causing a system to hang under complex workloads. Intel has recognized the issue and in its own words:

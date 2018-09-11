@@ -1,0 +1,1 @@
+MIT researchers have developed the first molecular clock on a chip, which uses the constant, measurable rotation of molecules—when exposed to a certain frequency of electromagnetic radiation—to keep time. The chip could one day significantly improve the accuracy and performance of navigation on smartphones and other consumer devices.
