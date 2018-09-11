@@ -1,0 +1,1 @@
+Microsoft announced Wednesday that its labs have developed an AI machine translation system that can translate from Chinese to English with the same accuracy as can a human. The researchers are at Asia and U.S. labs of Microsoft.

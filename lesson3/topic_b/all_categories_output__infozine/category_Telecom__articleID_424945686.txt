@@ -1,0 +1,1 @@
+Researchers from North Carolina State University have developed a system that can simultaneously deliver watts of power and transmit data at rates high enough to stream video over the same wireless connection. By integrating power and high-speed data, a true single "wireless" connection can be achieved.

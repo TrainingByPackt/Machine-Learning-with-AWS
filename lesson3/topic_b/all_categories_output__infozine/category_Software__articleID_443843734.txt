@@ -1,0 +1,1 @@
+Searches involving multiple websites can quickly get confusing, particularly when performed on a mobile device with a small screen. A new web browser developed at Carnegie Mellon University now brings order to complex searches in a way not possible with conventional tabbed browsing.
