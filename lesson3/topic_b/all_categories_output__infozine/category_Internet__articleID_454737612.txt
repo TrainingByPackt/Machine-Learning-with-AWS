@@ -1,0 +1,1 @@
+If there is one blue-ribbon word that Mozilla team members love, it is "open." And this month marks the new  Firefox Public Data Report, which unboxes Firefox user activity and behavior—complementing its older relation of the Firefox Hardware Report. The latter launched some time back  as a public resource to share what hardware was being actively used in the wild.

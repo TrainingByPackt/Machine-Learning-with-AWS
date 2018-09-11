@@ -1,0 +1,1 @@
+(Tech Xplore)—Facebook has announced via blog post, technology that it has been working on for some time, called DeepText—its purpose is to read every word posted on Facebook, including comments, make sense of them, and then offer some sort of "assistance" base on what it finds. Facebook plans to also use this new technology on its messaging system.
