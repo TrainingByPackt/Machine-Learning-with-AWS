@@ -1,0 +1,1 @@
+Researchers at Northwestern University, the University of Bath, and the University of Sydney have developed a new network approach to topic models, machine learning strategies that can discover abstract topics and semantic structures within text documents.

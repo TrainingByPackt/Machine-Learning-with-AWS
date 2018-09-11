@@ -1,0 +1,1 @@
+A novel encryption method devised by MIT researchers secures data used in online neural networks, without dramatically slowing their runtimes. This approach holds promise for using cloud-based neural networks for medical-image analysis and other applications that use sensitive data.

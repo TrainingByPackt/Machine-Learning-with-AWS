@@ -1,0 +1,1 @@
+Say hello to the new Raspberry Pi 3 Model B+. "Alongside a 200MHz increase in peak CPU clock frequency, we have roughly three times the wired and wireless network throughput, and the ability to sustain high performance for much longer periods," according to Eben Upton.

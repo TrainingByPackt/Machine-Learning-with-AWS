@@ -1,0 +1,1 @@
+Researchers at Orange Labs and Normandie University have developed a novel deep neural model for audiovisual emotion recognition that performs well with small training sets. Their study, which was pre-published on arXiv, follows a philosophy of simplicity, substantially limiting the parameters that the model acquires from datasets and using simple learning techniques.
