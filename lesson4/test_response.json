@@ -1,0 +1,11 @@
+{
+  "sessionAttributes": {},
+  "dialogAction": {
+    "type": "Close",
+    "fulfillmentState": "Fulfilled",
+    "message": {
+      "contentType": "PlainText",
+      "content": "The last price (delayed) of ticker GOOG was 1079.24"
+    }
+  }
+}

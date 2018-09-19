@@ -1,0 +1,34 @@
+{
+    "messageVersion": "1.0", 
+    "invocationSource": "FulfillmentCodeHook", 
+    "userId": "xyz",
+    "sessionAttributes": {}, 
+    "requestAttributes": "",
+    "bot": 
+    {
+        "name": "MarketNanny", 
+        "alias": "$LATEST", 
+        "version": "$LATEST"
+        
+    }, 
+    "outputDialogMode": "Text", 
+    "currentIntent": 
+    {
+        "name": "GetQuote", 
+        "slots": 
+        {
+            "ticker": "GOOG"
+        }, 
+        "slotDetails": 
+        {
+            "ticker": 
+            {
+                "resolutions": [{"value": "GOOG"}], 
+                "originalValue": "GOOG"
+                
+            }
+        }, 
+        "confirmationStatus": "None"
+    }, 
+    "inputTranscript": "How about GOOG"
+}
