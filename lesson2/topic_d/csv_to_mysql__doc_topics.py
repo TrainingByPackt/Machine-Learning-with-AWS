@@ -5,7 +5,7 @@ row_list = []
 #mysql
 conn = pymysql.connect(db='<your db name>',  # eg. linkedTopicDB2
 						host='<your host name > ', # eg. 'linkedtopicsdbinstance2.hslfhsmwlcww.us-east-1.rds.amazonaws.com'
-						port='<port number>',
+						port= <port number>, # eg. 3306
 						user='administrator',
 						password='<your password>',
 						use_unicode=True,
