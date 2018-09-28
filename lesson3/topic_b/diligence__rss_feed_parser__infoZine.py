@@ -8,7 +8,7 @@ conn = pymysql.connect(db='<your db name>',
 						password='<your password>',
 						use_unicode=True,
 						charset='utf8')
-#feed_url = 'http://rss.infozine.com/kc/sports.xml'
+
 feed_url = 'http://rss.infozine.com/kc/music.xml'
 # obtain feed data from the url
 feed_object = feedparser.parse(feed_url)
