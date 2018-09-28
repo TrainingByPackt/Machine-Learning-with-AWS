@@ -1,8 +1,9 @@
 import feedparser
+import pymysql
 #mysql connection 
 conn = pymysql.connect(db='<your db name>',
 						host='<your host name>',
-						port='<port number>',
+						port=<port number>, #eg. 3306
 						user='administrator',
 						password='<your password>',
 						use_unicode=True,
@@ -19,13 +20,13 @@ for article in feed_object.entries:
 	title = article.title
 	description = article.description
 	link = article.link
-	category = feed.channel.category[:-1]
+	category = feed_object.channel.category[:-1]
 	pubDate = article.published
 	unique_article_id = article.guid[-6:-1]
 	# extend()-Iterates arguments adding RSS element to the row_list
 	row_list.extend((title, description, link, category, pubDate, unique_article_id))
 	# append() - Appends objects at the end off the articles_list
-	articles.append(row_list)
+	articles_list.append(row_list)
 #add all posts to write to the db with 
 with conn.cursor() as cur:
 	for row in articles_list:
