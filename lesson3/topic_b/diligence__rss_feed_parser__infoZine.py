@@ -10,6 +10,7 @@ conn = pymysql.connect(db='<your db name>',
 						charset='utf8')
 
 feed_url = 'http://rss.infozine.com/kc/music.xml'
+#feed_url = 'http://rss.infozine.com/kc/sports.xml'
 # obtain feed data from the url
 feed_object = feedparser.parse(feed_url)
 # create an empty list
