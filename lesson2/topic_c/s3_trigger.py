@@ -12,9 +12,9 @@ def lambda_handler(event, context):
         #event – AWS Lambda uses this parameter to pass in event data to the handler. This parameter is usually of the Python dict type. It can also be list, str, int, float, or NoneType type
         text_file_obj = event["Records"][0]
         # assign the uploaded text file name to the 'filename' variable 
-		filename = str(text_file_obj['s3']['object']['key'])
+	filename = str(text_file_obj['s3']['object']['key'])
         
-		#print the filename 
+	#print the filename 
         print("filename: ", filename)
 
         # create the file object
