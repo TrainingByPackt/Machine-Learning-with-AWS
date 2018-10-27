@@ -19,7 +19,7 @@ for file in file_list:
 	with open(file, 'r', encoding="utf-8") as f:
 		file_as_str = f.read()
 		# python string formating to print the text file name
-		print('Calling detect_entities on file: %s' % file[-15:])
+		print('Calling detect_entities_from_documents.py on file: %s' % file[-15:])
 		# json.dumps() writes JSON data to a Python string
 		print(json.dumps(comprehend.detect_entities(Text = file_as_str, LanguageCode='en'), sort_keys=True, indent=4))
 		print('End of detect_entities\n')
