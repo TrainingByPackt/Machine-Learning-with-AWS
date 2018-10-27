@@ -25,7 +25,7 @@ def lambda_handler(event, context):
         body_str_obj = str(file_obj['Body'].read())
         
         # create a comprehend object
-        comprehend = boto3.client(service_name="comprehend", region_name='<input region_name>') #us-east-1
+        comprehend = boto3.client(service_name="comprehend", region_name='<input region>') #us-east-1
         
         # call detect_sentiment()
         sentiment_response = comprehend.detect_sentiment(Text = body_str_obj, LanguageCode = "en")
