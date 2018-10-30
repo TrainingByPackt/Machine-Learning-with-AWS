@@ -20,4 +20,4 @@ For an optimal student experience, we recommend the following hardware configura
 You’ll also need the following software installed in advance:
 * **OS**: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
 * **Browser**: Google Chrome, Latest Version
-* **An AWS account
+* **An AWS account**
