@@ -1,4 +1,4 @@
- #Machine Learning with AWS
+#Machine Learning with AWS
 This course is the right place to start if you are interested in learning useful artificial intelligence and machine learning skills using Amazon Web Services, the most popular and powerful cloud platform. You will learn in detail how to use AWS to transform your projects into apps that work at high speed and are highly scalable. From natural language processing (NLP) applications, such as language translation,
 understanding news articles and other text sources, to creating chatbots with both voice and text interfaces, to processing huge numbers of images fast, and creating machine learning models, you will learn all that there is to know about using AWS to your advantage. By the end of this course, you will have the skills to efficiently use AWS in your machine learning and artificial intelligence projects..
 
