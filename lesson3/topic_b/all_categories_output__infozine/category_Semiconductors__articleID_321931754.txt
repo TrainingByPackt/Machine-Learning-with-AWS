@@ -1,1 +1,0 @@
-Sony's advance in image sensors appears quite natural: the company has developed a set of curved CMOS image sensors based on the curvature of the eye. A report on the sensors in IEEE Spectrum said that, "in a bit of biomimicry," Sony engineers were able to achieve a set of curved CMOS image sensors using a "bending machine" of their own construction.

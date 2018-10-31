@@ -1,1 +1,0 @@
-Arm on Tuesday announced its new direction in "the industry's most scalable, versatile ML compute platform." They are talking up their new platform called Project Trillium. The project involves a new Machine Learning (ML) processor and an Object Detection (OD) processor.

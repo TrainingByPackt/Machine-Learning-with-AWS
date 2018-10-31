@@ -1,1 +1,0 @@
-A team of researchers from Hungary, Norway and the Netherlands has found a way to better control a large swarm of drones—give them more autonomy. In their paper published in the journal Science Robotics, the group describes their approach and how well it has worked in real drone swarms.

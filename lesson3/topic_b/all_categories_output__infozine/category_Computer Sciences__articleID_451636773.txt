@@ -1,1 +1,0 @@
-Neuroscience researchers at the University of Cambridge have combined computer vision with semantics, developing a new model that could help to better understand how objects are processed in the brain.

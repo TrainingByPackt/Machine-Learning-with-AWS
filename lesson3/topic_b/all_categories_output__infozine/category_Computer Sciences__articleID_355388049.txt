@@ -1,1 +1,0 @@
-(Tech Xplore)—A combined team of researchers from the University of California and Politecnico di Torino in Italy has built, for the first time, a working memory-crunching computer (memcomputer) prototype. It is capable, the team reports in their paper published in the journal Science Advances, of solving the NP-complete version of the subset sum problem.

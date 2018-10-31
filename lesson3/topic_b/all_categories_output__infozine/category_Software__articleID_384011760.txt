@@ -1,1 +1,0 @@
-New software created by Brown University computer scientists could help website owners and developers easily determine what parts of a page are grabbing a user's eye.

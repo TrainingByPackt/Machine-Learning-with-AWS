@@ -1,1 +1,0 @@
-(Tech Xplore)—Mesh-networking capabilities now in Bluetooth are making news. The Bluetooth Special Interest Group announced that Bluetooth technology has been updated with support for mesh networking, and Bluetooth published the spec.

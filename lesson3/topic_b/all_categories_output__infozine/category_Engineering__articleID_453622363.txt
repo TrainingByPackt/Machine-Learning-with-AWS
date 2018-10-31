@@ -1,1 +1,0 @@
-Researchers at Imperial College London have recently devised a new biometric cryptosystem approach for securing wireless communications of wearable and implantable medical devices. Their framework, outlined in a study published on IEEE Explore, uses an artificial neural network (ANN) framework and gait signal energy variations.

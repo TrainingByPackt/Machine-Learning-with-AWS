@@ -1,1 +1,0 @@
-With the outsourcing of microchip design and fabrication worldwide, a $350 billion business, bad actors along the supply chain have many opportunities to install malicious circuitry in chips. These "Trojan horses" look harmless but can allow attackers to sabotage healthcare devices; public infrastructure; and financial, military, or government electronics.

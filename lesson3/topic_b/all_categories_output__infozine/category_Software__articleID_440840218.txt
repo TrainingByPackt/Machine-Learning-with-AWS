@@ -1,1 +1,0 @@
-IBM has officially unveiled its Watson Assistant, a voice recognition and assistant system meant to serve as the back end of customized customer front-end systems. IBM announced at its annual Think conference that Watson Assistant is now available for use by interested customers.

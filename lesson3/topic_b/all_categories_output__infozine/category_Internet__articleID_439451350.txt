@@ -1,1 +1,0 @@
-In a nutshell, three researchers have described in a paper "Low-Resource Eclipse Attacks on Ethereum's Peer-to-Peer Network" that it is possible to carry out an eclipse attack on the Ethereum network. As important, maintainers of the Ethereum network got on the case and issued an update.

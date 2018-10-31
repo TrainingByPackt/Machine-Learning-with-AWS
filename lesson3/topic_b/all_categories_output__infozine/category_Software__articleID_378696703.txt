@@ -1,1 +1,0 @@
-Tech watchers' eyes and ears have been on the Microsoft Build 2016 developer conference in the U.S. and one of the news items of special interest is this: Microsoft is bringing the Bash shell to Windows 10. "The announcement received an uproarious applause from the crowd," wrote Chris Welch in The Verge.

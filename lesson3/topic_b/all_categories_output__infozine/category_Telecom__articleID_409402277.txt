@@ -1,1 +1,0 @@
-The transmission control protocol, or TCP, which manages traffic on the Internet, was first proposed in 1974. Some version of TCP still regulates data transfer in most major data centers, the huge warehouses of servers maintained by popular websites.

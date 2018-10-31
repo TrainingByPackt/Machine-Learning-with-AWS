@@ -1,1 +1,0 @@
-Robotics researchers wouldn't dream of leaving the door unlocked when they leave the lab for night, but a new study shows that research robots are often left exposed in another way: unsecured on the internet.

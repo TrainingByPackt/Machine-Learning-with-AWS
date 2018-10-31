@@ -1,1 +1,0 @@
-A new service that is offering privacy protection when you browse the web was announced Sunday. The security company Cloudflare is delivering a consumer DNS service called 1.1.1.1.

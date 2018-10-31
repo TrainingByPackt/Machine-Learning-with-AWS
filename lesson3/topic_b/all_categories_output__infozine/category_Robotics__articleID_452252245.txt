@@ -1,1 +1,0 @@
-A lettered, multi-colored block: A trivial task awaits humans to pick it up, turn it around, toss it around in the palm of our hands. For a robot expert, though, this is an uphill task that is tough to climb. Hand manipulation for robots has always been a challenge.

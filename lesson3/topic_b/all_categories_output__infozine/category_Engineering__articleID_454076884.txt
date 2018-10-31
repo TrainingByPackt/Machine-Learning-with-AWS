@@ -1,1 +1,0 @@
-MIT researchers have taken a step toward solving a longstanding challenge with wireless communication: direct data transmission between underwater and airborne devices.

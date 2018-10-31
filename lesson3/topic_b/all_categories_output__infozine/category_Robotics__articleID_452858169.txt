@@ -1,1 +1,0 @@
-Engineers at Caltech have developed a new control algorithm that enables a single drone to herd an entire flock of birds away from the airspace of an airport. The algorithm is presented in a study in IEEE Transactions on Robotics.

@@ -1,1 +1,0 @@
-Medical implants and spacecraft can suddenly go dead, often for the same reason: cracks in ceramic capacitors, devices that store electric charge in electronic circuits. These cracks, at first harmless and often hidden, can start conducting electricity, depleting batteries or shorting out the electronics.

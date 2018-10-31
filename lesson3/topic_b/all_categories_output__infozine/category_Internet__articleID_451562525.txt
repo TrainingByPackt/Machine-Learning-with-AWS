@@ -1,1 +1,0 @@
-A new computational model allows researchers to draw on normally incompatible data sets, such as satellite imagery and social media posts, to answer questions about what is happening in targeted locations. The researchers developed the model to serve as a tool for identifying violations of nuclear nonproliferation agreements.

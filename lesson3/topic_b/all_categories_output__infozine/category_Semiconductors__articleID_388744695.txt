@@ -1,1 +1,0 @@
-Smaller and faster has been the trend for electronic devices since the inception of the computer chip, but flat transistors have gotten about as small as physically possible. For researchers pushing for even faster speeds and higher performance, the only way to go is up.

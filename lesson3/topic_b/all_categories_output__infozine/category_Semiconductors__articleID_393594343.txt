@@ -1,1 +1,0 @@
-Researchers at North Carolina State University have developed new, nonlinear, chaos-based integrated circuits that enable computer chips to perform multiple functions with fewer transistors. These integrated circuits can be manufactured with "off the shelf" fabrication processes and could lead to novel computer architectures that do more with less circuitry and fewer transistors.

@@ -1,1 +1,0 @@
-Drones use GPS to find their way without a pilot. But GPS signals can be easily blocked by tall skyscrapers or trees—leaving drones lost.

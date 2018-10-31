@@ -1,1 +1,0 @@
-UBC computer scientists have turned Amazon Alexa into a tool for software engineers, tasking the virtual assistant to take care of mundane programming tasks, helping increase productivity and speed up workflow.

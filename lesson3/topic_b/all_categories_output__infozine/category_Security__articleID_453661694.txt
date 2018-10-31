@@ -1,1 +1,0 @@
-Google has revised a help page that erroneously described how its "Location History" setting works, clarifying for users that it still tracks their location even if they turn the setting off.

@@ -1,1 +1,0 @@
-A team of researchers from the Brain Research Institute of the University of Zurich and the Swiss Federal Institute of Technology (ETH) have developed a fully automated brain registration method that could be used to segment brain regions of interest in mice.

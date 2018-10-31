@@ -1,1 +1,0 @@
-Researchers at the Human Media Lab at Queen's University have developed the world's first holographic flexible smartphone. The device, dubbed HoloFlex, is capable of rendering 3D images with motion parallax and stereoscopy to multiple simultaneous users without head tracking or glasses.

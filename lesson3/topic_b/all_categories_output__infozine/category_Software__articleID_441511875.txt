@@ -1,1 +1,0 @@
-Carnegie Mellon University computer scientists have developed a system that can translate a wide variety of 3-D shapes into stitch-by-stitch instructions that enable a computer-controlled knitting machine to automatically produce those shapes.

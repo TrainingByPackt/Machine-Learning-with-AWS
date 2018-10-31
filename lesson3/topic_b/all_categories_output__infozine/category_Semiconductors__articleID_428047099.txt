@@ -1,1 +1,0 @@
-Researchers have developed a new type of cooling system for high-performance radars and supercomputers that circulates a liquid coolant directly into electronic chips through an intricate series of tiny microchannels.

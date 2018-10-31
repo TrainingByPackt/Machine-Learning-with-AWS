@@ -1,1 +1,0 @@
-"Wearables" represents a broad-category of how we will interact with the digital world away from our laptop screens. It embraces arm bands, socks, bracelets, rings and watches. Google is now enhancing that spectrum, having done some serious playtime exploring fabric. Welcome to Project Jacquard, which Google announced at this year's I/O developer conference in California.

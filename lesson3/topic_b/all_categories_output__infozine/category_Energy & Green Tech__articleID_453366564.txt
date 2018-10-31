@@ -1,1 +1,0 @@
-Researchers at the Reiner Lemoine Institut in Berlin have effectively used remote sensing techniques to detect a sample of Zambian villages that are without electricity. Their study, recently published on Springer's Proceedings in Energy book series, highlights the potential of machine learning strategies to improve electrification planning in less developed parts of the world.

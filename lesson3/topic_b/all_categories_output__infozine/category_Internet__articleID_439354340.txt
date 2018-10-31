@@ -1,2 +1,0 @@
-Video creators: Want to swap backgrounds? Knock yourselves out. Google researchers have been working on a way to let you swap out your video backgrounds using a neural network—no green screen required.
-It's rolling out to YouTube Stories on mobile in a limited fashion, said TechCrunch.

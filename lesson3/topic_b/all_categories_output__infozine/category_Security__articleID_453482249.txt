@@ -1,1 +1,0 @@
-A newly discovered processor vulnerability could potentially put secure information at risk in any Intel-based PC manufactured since 2008. It could affect users who rely on a digital lockbox feature known as Intel Software Guard Extensions, or SGX, as well as those who utilize common cloud-based services, a new report says.

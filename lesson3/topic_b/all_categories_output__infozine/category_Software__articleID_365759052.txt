@@ -1,1 +1,0 @@
-By now you have been quite schooled in what GPS is all about; a next wave will be talk about apps that focus on IPS, or indoor positioning systems. PCMag defined it as a system for navigation that can be used inside airports, museums, malls and hospitals.

@@ -1,1 +1,0 @@
-A team of researchers at the University of California has developed a novel kind of neural network—one that uses light instead of electricity to arrive at results. In their paper published in the journal Science, the group describes their ideas, their working device, its performance, and the types of applications they believe could be well served by such a network.

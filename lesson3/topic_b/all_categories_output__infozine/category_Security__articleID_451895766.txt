@@ -1,1 +1,0 @@
-"Spectre" was a prescient name for the processor vulnerability that takes advantage of speculative execution. Since its initial discovery in January, 2018, at least three variants of the attack have been found.
