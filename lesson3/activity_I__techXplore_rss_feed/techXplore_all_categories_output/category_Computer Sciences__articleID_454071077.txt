@@ -1,1 +1,0 @@
-An algorithm-based system that identifies telltale linguistic cues in fake news stories could provide news aggregator and social media sites like Google News with a new weapon in the fight against misinformation.

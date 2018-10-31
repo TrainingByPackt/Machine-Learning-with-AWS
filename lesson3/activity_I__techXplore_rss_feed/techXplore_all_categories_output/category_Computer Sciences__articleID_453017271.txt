@@ -1,1 +1,0 @@
-Researchers from the Karlsruhe Institute of Technology (KIT), in Germany, have recently applied multi-task machine learning to low-latency neural speech translation. Their study, which was pre-published on ArXiv, addresses some of the limitations of existing neural machine translation (NMT) techniques.

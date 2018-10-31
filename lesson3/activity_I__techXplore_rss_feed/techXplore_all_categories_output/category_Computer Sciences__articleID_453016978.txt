@@ -1,1 +1,0 @@
-Researchers at New York University have recently devised a new cyber defense technique, which works by adding so-called "chaff bugs," non-exploitable bugs, rather than eliminating existing ones. A pre-print version of their inventive study was uploaded to ArXiv last week.
